@@ -144,4 +144,5 @@ play_game()
 # TODO: Add option to start a new game
 # TODO: Add possibility to select and change game difficulty
 # TODO: Do not count letters, that have already been used, as fail
+# Check if git works
 
